@@ -1,5 +1,15 @@
 
-<td><img width="50" height="50" src='https://github.com/HackclubVIT/HackClub-Website/blob/master/assests/output-onlinepngtools.png'>HackClub| VIT Chennai</td>
+<table class="table table-sm">
+    <tr>
+        <td>
+            <a href="http://hackclub.tech/">
+            <img width="50" height="50" src='https://github.com/HackclubVIT/HackClub-Website/blob/master/assests/output-onlinepngtools.png'>
+            </a>
+        </td>
+        <td><h2><b>HackClub| VIT Chennai</b></h2></td>
+    </tr>
+</table>
+<br>
 
 Official website for Hackclub VIT chennai.
 
