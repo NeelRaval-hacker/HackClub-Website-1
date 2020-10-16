@@ -1,6 +1,5 @@
-<tr>
-<td style="text-align:center;"><img width="350" height="350" src='https://github.com/HackclubVIT/HackClub-Website/blob/master/assests/output-onlinepngtools.png'><br><p align="center">HackClub| VIT Chennai</p></td>
-</tr>
+
+<td><img width="50" height="50" src='https://github.com/HackclubVIT/HackClub-Website/blob/master/assests/output-onlinepngtools.png'>HackClub| VIT Chennai</td>
 
 Official website for Hackclub VIT chennai.
 
