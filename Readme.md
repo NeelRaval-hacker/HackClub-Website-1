@@ -1,5 +1,5 @@
 <tr>
-<td style="text-align:center;"><img width="350" height="350" src='https://github.com/HackclubVIT/HackClub-Website/blob/master/assests/logo.jpeg.jpeg'><br><p align="center">Brain Computer Interface</p></td>
+<td style="text-align:center;"><img width="350" height="350" src='https://github.com/HackclubVIT/HackClub-Website/blob/master/assests/output-onlinepngtools.png'><br><p align="center">HackClub| VIT Chennai</p></td>
 </tr>
 
 Official website for Hackclub VIT chennai.
